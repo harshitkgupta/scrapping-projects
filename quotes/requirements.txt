@@ -1,0 +1,4 @@
+scrapy
+scrapy_proxy_pool
+scrapy-user-agents
+pymongo
